@@ -1,1 +1,1 @@
-![Wallpaper](wallpapers/wallpaper1.jpg)
+![Wallpaper](dotfiles-backup/wallpapers/wallpaper1.jpg)
