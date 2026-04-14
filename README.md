@@ -1,1 +1,3 @@
-![Wallpaper](https://images.unsplash.com/photo-1485470733090-0aae1788d5af?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1217)
+Hey, im tem. I´m interested in IOS and python development. Pretty new to everything.
+
+Performance and aesthetics above all else
